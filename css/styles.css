@@ -1,0 +1,14 @@
+.lista-alunos ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.lista-alunos ul li {
+  margin-bottom: 5px;
+  display: flex;
+  gap: 10px;
+  width: 90%;
+  justify-content: flex-start;
+}
+
+/*# sourceMappingURL=styles.css.map */
